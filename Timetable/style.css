@@ -51,5 +51,6 @@ a {
 }
 
 .text-colors {
-	color: #1242CD;
+	/*color: #1242CD;*/
+	color: red;
 }
