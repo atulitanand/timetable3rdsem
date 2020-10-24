@@ -1,0 +1,55 @@
+/*Class Definations*/
+
+/*subjects*/
+.Maths {
+	background: #FF5765;
+}
+.DSA {
+	background: #01DEE6;
+}
+.AnaDigi {
+	background: #A8E10C;
+}
+.SclSkills, .Bio, .MPE {
+	background: #8A6FDF;
+}
+.COA {
+	background: #44EE77;
+}
+.OOPS {
+	background: #FF56E9;
+}
+.Lab {
+	background: #ECF0ED;
+}
+
+/*General*/
+.day {
+	background: yellow;
+}
+.Time {
+	background: lightgreen;
+}
+.periodBreak {
+	background: pink;
+}
+.bigBreak {
+	background: skyblue;
+}
+
+th {
+	padding-bottom: 2px
+}
+
+td {
+	text-align: center;
+	padding: 10px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.text-colors {
+	color: #1242CD;
+}
